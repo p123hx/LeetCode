@@ -1,9 +1,9 @@
 #### Forked from: [wisdompeak LeetCode repo](https://github.com/p123hx/LeetCode/tree/master/)
 
-### LeetCode难题代码和算法要点分析
-#### 目前分类目录
+### LeetCode Median and Hard questions 
+#### Catalog (In Progress)
 #### [Two Pointers](https://github.com/p123hx/LeetCode/tree/master/Two_Pointers)
-[011.Container-With-Most-Water](https://github.com/p123hx/LeetCode/tree/master/Two_Pointers/011.Container-With-Most-Water)	(M+)  
+[011.Container-With-Most-Water](https://github.com/p123hx/LeetCode/tree/master/Two_Pointers/011.Container-With-Most-Water)	(M+)  (Greedy)
 [015.3Sum](https://github.com/p123hx/LeetCode/tree/master/Two_Pointers/015.3Sum)  (M)  
 [016.3Sum-Closet](https://github.com/p123hx/LeetCode/tree/master/Two_Pointers/016.3Sum-Closest) (M)      
 [018.4Sum](https://github.com/p123hx/LeetCode/tree/master/Two_Pointers/018.4Sum) (M)           
@@ -548,7 +548,7 @@
 [1728.Cat-and-Mouse-II](https://github.com/p123hx/LeetCode/tree/master/BFS/1728.Cat-and-Mouse-II) (H+)  
 [1293.Shortest-Path-in-a-Grid-with-Obstacles-Elimination](https://github.com/p123hx/LeetCode/tree/master/BFS/1293.Shortest-Path-in-a-Grid-with-Obstacles-Elimination) (H-)  
 [1928.Minimum-Cost-to-Reach-Destination-in-Time](https://github.com/p123hx/LeetCode/tree/master/BFS/1928.Minimum-Cost-to-Reach-Destination-in-Time) (H-)  
-* ``拓扑排序``   
+* ``Topology Sort``   
 [207.Course-Schedule](https://github.com/p123hx/LeetCode/tree/master/BFS/207.Course-Schedule) (H-)   
 [210.Course-Schedule-II](https://github.com/p123hx/LeetCode/tree/master/BFS/210.Course-Schedule-II) (M)   
 [269.Alien-Dictionary](https://github.com/p123hx/LeetCode/tree/master/BFS/269.Alien-Dictionary) (H-)    
